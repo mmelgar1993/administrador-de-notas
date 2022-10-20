@@ -1,0 +1,11 @@
+-ejecutar el script de usuarios y roles
+
+-localhost:8080/oauth/token
+-por postman le das opción body -x-www-form-urlenconded:
+grant_type : password
+username: amelgar9362@gmail.com
+password: 123
+
+-la opción Authorization- basic:
+username: mitomediapp
+password : mito89codex
